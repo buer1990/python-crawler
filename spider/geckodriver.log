@@ -1,0 +1,11 @@
+1543411590616	mozrunner::runner	INFO	Running command: "D:\\Tools\\FireFox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\buer1990\\AppData\\Local\\Temp\\rust_mozprofile.VKfg5hGB1lbU"
+1543411592325	Marionette	INFO	Listening on port 57864
+1543411592974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Parent 24872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1804,[Child 16756, Chrom e_ChildThread] WARNING: pipe error: 109: file z:/build/bChrome_ChilduThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346ild/src/ipc/chromium/src/chrome/common/ipc_chan
+nel_win.cc, line 346
+[Parent 24872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Ch1543411595596	Marionette	INFO	Stopped listening on port 57864
+[
